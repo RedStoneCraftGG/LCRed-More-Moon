@@ -1,3 +1,5 @@
+# This map is for Lethal Company V45
+
 # LCRed-More-Moon
 Add more moons to Lethal Company. You can choose what you want to add!
 
@@ -7,6 +9,7 @@ Add more moons to Lethal Company. You can choose what you want to add!
 
 # Moons List
 + Venity
++ DPR
 
 # Known Issue
 - Monsters and other entities are only able to fall down and cannot jump or climb (this may be an advantage to you)
